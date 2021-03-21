@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+h1 {
+  color: white;
+  background-color: rebeccapurple;
+  margin: 0 auto;
+  padding: 10px 15px;
+  max-width: 100vw;
+  text-align: center;
+}
+h3 {
+  font-size: 1.5rem;
+  color: rebeccapurple;
+  margin-top: 3rem;
+  margin-left: 2rem;
+}
+img {
+  margin-left: 2rem;
+  border: 1px solid rebeccapurple;
+}
+p {
+  margin-left: 2rem;
+  font-size: 1.1rem;
+  letter-spacing: 0.15rem;
+}
+
+ul {
+  list-style: none;
+}
+ul li {
+  padding: 0.5rem;
+  letter-spacing: 0.1rem;
+  font-weight: bold;
+}
