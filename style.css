@@ -18,7 +18,7 @@ h3 {
 }
 img {
   margin-left: 2rem;
-  border: 1px solid rebeccapurple;
+  border: 2px solid rebeccapurple;
 }
 p {
   margin-left: 2rem;
@@ -33,4 +33,12 @@ ul li {
   padding: 0.5rem;
   letter-spacing: 0.1rem;
   font-weight: bold;
+}
+main {
+  display: flex;
+  width: 90vw;
+  margin: 0 auto;
+}
+.info {
+  display: flex;
 }
